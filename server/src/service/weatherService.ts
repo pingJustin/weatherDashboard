@@ -80,7 +80,6 @@ class WeatherService {
   }
 
   private buildForecastArray(currentWeather: Weather, weatherData: any[]): Weather[] {
-    console.log('Weather data:', weatherData);
     const forecast = weatherData.map(data => 
       new Weather(
         currentWeather.cityName,

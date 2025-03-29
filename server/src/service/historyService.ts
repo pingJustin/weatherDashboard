@@ -23,7 +23,6 @@ class HistoryService {
 
   private async read(): Promise<City[]> {
     try {
-      console.log('Reading search history from file:', this.filePath);
       const data = await fs.readFile(this.filePath, 'utf-8');
       const cities = JSON.parse(data);
       return cities.map((city: any) => ({
