@@ -7,8 +7,8 @@ Project Overview
 
 Key Features
   - Weather data retrieval for specified cities
-  - Search history management (last 5 searches)
-  - Current weather and forecast display
+  - Search history management
+  - Current weather and 5-day forecast display
 
 https://weatherdashboard-rbpg.onrender.com
 
