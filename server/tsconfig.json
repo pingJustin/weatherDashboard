@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    /* Modules */
+    "rootDir": "src" /* Specify the root folder within your source files. */,
+    "target": "ES2020", /* Specify ECMAScript target version. */
+    "module": "ES2020", /* Specify module code generation. */
+    "strict": true /* Enable all strict type checking options. */,
+    "moduleResolution": "bundler" /* Use Node.js module resolution strategy. */,
+    /* Emit */
+    "outDir": "dist" /* Specify an output folder for all emitted files. */
+    // "noEmitOnError": true /* Disable emitting files if any type checking errors are reported. */
+  },
+  "include": ["src"]
+}
