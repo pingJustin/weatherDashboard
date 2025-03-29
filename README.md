@@ -1,14 +1,14 @@
 This is a Weather Dashboard project that uses the OpenWeather API to display weather information. Here's a breakdown:
 
 Project Overview
-  Type: Full-stack web application
-  Stack: TypeScript, Express.js, Node.js
-  API: OpenWeather API integration
+  - Type: Full-stack web application
+  - Stack: TypeScript, Express.js, Node.js
+  - API: OpenWeather API integration
 
 Key Features
-  Weather data retrieval for specified cities
-  Search history management (last 5 searches)
-  Current weather and forecast display
+  - Weather data retrieval for specified cities
+  - Search history management (last 5 searches)
+  - Current weather and forecast display
 
 https://weatherdashboard-rbpg.onrender.com
 
